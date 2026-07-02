@@ -1,0 +1,7 @@
+Raw Data/
+models_anom/
+models_raw/
+tuning_dir_anom/
+tuning_dir_raw/
+weather_daily_cache/
+.ipynb_checkpoints/
